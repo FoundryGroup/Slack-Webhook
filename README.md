@@ -1,6 +1,6 @@
 # Easy Slack Webhook
 
-[![Build Status](https://travis-ci.org/carlcortright/slack-webhook.svg?branch=master)](https://travis-ci.org/carlcortright/slack-webhook)
+[![Build Status](https://travis-ci.org/carlcortright/slack-webhook.svg?branch=master)](https://travis-ci.org/carlcortright/slack-webhook) [![PyPI version](https://badge.fury.io/py/slackwebhook.svg)](https://badge.fury.io/py/slackwebhook)
 
 > A simple python package for posting messages to slack channels.
 
