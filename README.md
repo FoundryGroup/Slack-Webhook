@@ -10,8 +10,6 @@ Slack webhooks are an easy way to get push notifications on mobile and desktop.
 
 At Foundry Group we are using this package to push news about our portfolio companies to a slack channel dedicated to portfolio company news.
 
-Personally, I am using this package to push notifications about my AI trading algorithms to a personal slack channel (trade/price updates etc.).
-
 ### Installing
 
 Install with pip:
